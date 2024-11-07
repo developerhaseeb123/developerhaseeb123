@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @developerhaseeb123
-- 👀 I’m interested in ...Data Analysis, WordPress, SEO Blogging
+- 👀 I’m interested in ...Data and Web Development, WordPress, SEO Blogging
 - 🌱 I’m currently learning ... SEO/Blogging & working on Data Science
-- 💞️ I’m looking to collaborate on ...Data Analyst
-- 📫 How to reach me ... @developerhaseebinstitute linkedin account
+- 💞️ I’m looking to collaborate on ...Web development
+- 📫 How to reach me ... @developerhaseeb linkedin account
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... You Desrire ;) i provide
 
